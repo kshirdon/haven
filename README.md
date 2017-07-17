@@ -10,11 +10,14 @@ These instructions will get you a copy of the project up and running on your loc
 
 ### Prerequisites
 
-What things you need to install the software and how to install them
+• You must have a [Bluemix account](https://www.bluemix.net).
+
+• You must have an instance of the [Watson Conversation](https://console.bluemix.net/catalog/services/conversation).
 
 ```
 Give examples
 ```
+
 
 ### Installing
 
@@ -87,4 +90,3 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 * Hat tip to anyone who's code was used
 * Inspiration
 * etc
-
