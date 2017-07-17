@@ -1,0 +1,1 @@
+[{"id":"cc7fe7a2.8cd288","type":"openweathermap","z":"d1810638.3213f","name":"Get Weather Data","wtype":"current","lon":"","lat":"","city":"Nashville","country":"Tennessee","language":"en","x":125.5,"y":276,"wires":[["7b6a6a3c.7c3e04"]]}]
