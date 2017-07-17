@@ -1,6 +1,8 @@
 # Haven
 
-One Paragraph of project description goes here
+This asset was developed in conjunction with the Hacker's Buffet at IBM's STSA Training event in July 2017.  The Haven application is an application targetted at providing a solution for victims of natural disasters to get access to information they need when they need it (either through SMS, phone, web, or mobile application).  The first iteration of this solution is provide a conversational agent interacting through SMS.
+
+The solution components currently in use include: Twilio, Watson Conversation, Watson IOT...all accessed through a node.JS application built using the Node Red Starter pack.
 
 ## Getting Started
 
